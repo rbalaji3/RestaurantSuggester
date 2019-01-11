@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-stormpath": "^4.0.0",
+    "requests": "^0.2.2"
+  }
+}

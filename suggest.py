@@ -30,7 +30,7 @@ class Suggest:
         d = API.getRestaurant(choice)
         return d
 
-    def completlynew(self, user): # suggests a cuisine they have never tried before (returns a restaurant name)
+    def completelynew(self, user): # suggests a cuisine they have never tried before (returns a restaurant name)
         # go through list of all the cuisines that user has tried
         # look at total cuisine list
         # look at cuisines a user hasnt tried

@@ -47,6 +47,6 @@ if (choice == 1):
 if (choice == 2):
     print(suggestor.less_familiar(user))
 if (choice == 3):
-    print(suggestor.completlynew(user))
+    print(suggestor.completelynew(user))
 else:
     print("Invalid Input")
